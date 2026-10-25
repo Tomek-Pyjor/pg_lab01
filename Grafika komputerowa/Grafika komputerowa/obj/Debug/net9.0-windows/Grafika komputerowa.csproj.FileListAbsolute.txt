@@ -1,0 +1,16 @@
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika_komputerowa.Form1.resources
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.csproj.GenerateResource.cache
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.AssemblyInfoInputs.cache
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.AssemblyInfo.cs
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.csproj.CoreCompileInputs.cache
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\bin\Debug\net9.0-windows\Grafika komputerowa.exe
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\bin\Debug\net9.0-windows\Grafika komputerowa.deps.json
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\bin\Debug\net9.0-windows\Grafika komputerowa.runtimeconfig.json
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\bin\Debug\net9.0-windows\Grafika komputerowa.dll
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\bin\Debug\net9.0-windows\Grafika komputerowa.pdb
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.dll
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\refint\Grafika komputerowa.dll
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.pdb
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\Grafika komputerowa.genruntimeconfig.cache
+C:\Users\scich\Desktop\Grafika komputerowa\Grafika komputerowa\obj\Debug\net9.0-windows\ref\Grafika komputerowa.dll
